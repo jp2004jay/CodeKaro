@@ -1,10 +1,9 @@
 # CodeKaro
 It's a real time code of CSS practice. 
 
-# Day-1
+<b>Day-1</b>
   All about Box-Model
-
-# Day-2
+<b>Day-2</b>
   Clear the Positions
     - Static
     - Relative
@@ -12,6 +11,6 @@ It's a real time code of CSS practice.
     - Fixed
     - Sticky
 
-# Day-3
+<b>Day-3</b>
   Flex-box Complete
     Clone the webpage : 
