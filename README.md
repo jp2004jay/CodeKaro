@@ -6,7 +6,7 @@ It's a real time code of CSS practice.
 All about Box-Model
 <br/></br>
 
-<b>Day-2</b>
+<b>Day-2</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Clear the Positions
 <ul>
@@ -18,10 +18,10 @@ Clear the Positions
 </ul>
 <br/>
 
-<b>Day-3</b>
+<b>Day-3</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Flex-box Complete
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-    Clone the webpage : 
+    Clone the webpage : https://github.com/jp2004jay/Code-Karo-Day-3
